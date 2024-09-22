@@ -1,0 +1,15 @@
+Integrantes:
+Luana Thomas - 21200415
+Bernardo Haab - 
+Henrique Brauveres - 
+Érico Panazzolo - 
+Pedro Menuzzi - 
+
+Os testes foram executados dentro de um codespace, com o ambiente python padrão disponibilizado pela plataforma.
+Nenhuma instalação adicional foi necessária.
+
+Na pasta prompts, estão disponibilizadas as conversas com o ChatGPT, cada algoritmo em um chat separado.
+Na pasta algoritmos-chatGPT, estão os arquivos .ipynb com as implementações dos algoritmos fornecidos pelo chatGPT
+Na pasta algoritmos-sklearn, estão os arquivos .ipynb com as implementações dos algoritmos utilizando a biblioteca sklearn
+
+A análise será fornecida em um relatório separadamente.
